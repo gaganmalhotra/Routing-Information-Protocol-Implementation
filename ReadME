@@ -1,0 +1,7 @@
+
+Steps:
+
+1) First input the value of current Ip Address.
+2) Now input the neighbors ipAddress along with the cost for the current router.
+3) Repeat the steps in all the instances to make the topology.
+
