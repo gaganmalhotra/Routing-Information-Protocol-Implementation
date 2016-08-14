@@ -1,4 +1,5 @@
-Implemented distance vector routing protocol called RIP where each router exchanges its routing information with the neighbors and based on this exchange it computes the shortest path from itself to all other routers.
+Implemented distance vector routing protocol called RIP where each router exchanges its routing information with the neighbors 
+and based on this exchange it computes the shortest path from itself to all other routers.
 
 Steps:
 
